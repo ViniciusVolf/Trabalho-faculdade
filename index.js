@@ -1,0 +1,1 @@
+<button onclick="document.getElementById('para1').innerHTML='É justo que muito custe o que muito vale'">Clique para ver uma mensagem!</button>
